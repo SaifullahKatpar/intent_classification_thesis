@@ -1,0 +1,36 @@
+https://www.analyticsvidhya.com/blog/2021/12/intent-classification-with-convolutional-neural-networks
+https://medium.com/analytics-vidhya/creating-your-own-intent-classifier-b86e000a4926
+https://github.com/dineshsonachalam/Intent-classification
+
+
+CNN:
+https://www.youtube.com/watch?v=YRhxdVk_sIs
+
+LSTM:
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+
+Notes Jetendar 27-11-2022:
+
+Nothing much to worry about report/thesis
+Rasa part is done
+Classical machine learning is done
+Main is Deep Learning solution 
+
+Deep Learning Solutions:
+Explain about background and approaches
+Show research papers related to those approaches
+
+Things to remember:
+We have used two DL models: LSTM and CNN
+LSTM: https://medium.com/analytics-vidhya/creating-your-own-intent-classifier-b86e000a4926
+https://medium.com/ai-techsystems/intent-classification-using-lstm-5067d283c10a
+
+CNN:
+https://www.analyticsvidhya.com/blog/2021/12/intent-classification-with-convolutional-neural-networks/
+
+
+ 
+
+
